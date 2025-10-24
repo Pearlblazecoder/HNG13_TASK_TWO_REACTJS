@@ -14,7 +14,7 @@ const Landing = () => {
         <div className="container">
           <div className="hero-content">
             <h1 className="hero-title">
-              Streamline Your Support with TicketFlow
+              Streamline Your Support with FlexiTicket
             </h1>
             <p className="hero-description">
               The ultimate ticket management solution for teams of all sizes. 
