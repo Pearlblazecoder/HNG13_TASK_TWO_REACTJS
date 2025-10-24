@@ -85,7 +85,7 @@ const Signup = () => {
       <div className="auth-container">
         <div className="auth-card card">
           <h1 className="auth-title">Create Account</h1>
-          <p className="auth-subtitle">Join TicketFlow today</p>
+          <p className="auth-subtitle">Join FlexiTicket today</p>
           
           <form onSubmit={handleSubmit} className="auth-form">
             <div className="form-group">

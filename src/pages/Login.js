@@ -69,7 +69,7 @@ const Login = () => {
       <div className="auth-container">
         <div className="auth-card card">
           <h1 className="auth-title">Welcome Back</h1>
-          <p className="auth-subtitle">Sign in to your TicketFlow account</p>
+          <p className="auth-subtitle">Sign in to your FlexiTicket account</p>
           
           <form onSubmit={handleSubmit} className="auth-form">
             <div className="form-group">
